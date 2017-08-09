@@ -5,7 +5,7 @@ Welcome to the Tlacuaches project!
 Yeah that's a real thing, the main idea of this project is help recent graduates to get up to date on cloud technologies, I think Mexico has a huge potential on this area and I'd like to contribute with something back.
 This it's been in my head for a while and I'd like to dedicate one hour per week during five/seven weeks or so to people who is ambicious enough to learn new stuff and accept new challenges, and probably create an startup or get hired.
 
-I not consider myself a guru on cloud technologies but I have some experience, resources and friends that can be invited to join us for a session with a lightning talk.
+I do not consider myself a guru on cloud technologies but I have some experience, resources and friends that can be invited to join us for a session.
 
 
 I'll provide 
