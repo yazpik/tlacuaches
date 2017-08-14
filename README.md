@@ -20,6 +20,9 @@ This has no cost, And you just need to send me an email with your resume, and wh
 
 I have only two more spots left.
 
+Check our [layout/plan](https://github.com/yazpik/tlacuaches/blob/master/layout/plan.md) 
+
+
 yazpik@gmail.com
 
 Regards
