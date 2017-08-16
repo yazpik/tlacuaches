@@ -22,6 +22,7 @@ I have only two more spots left.
 
 Check our [layout/plan](https://github.com/yazpik/tlacuaches/blob/master/layout/plan.md) 
 
+[Manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md)
 
 yazpik@gmail.com
 
