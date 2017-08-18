@@ -1,7 +1,7 @@
 # Tlacuaches Project
 
 ## This repo has been moved to the Tlacuaches organization [here](https://github.com/Tlacuaches/tlacuaches) 
-### And the spots have been filled already! 
+### And the spots have been filled already for 08/16 - 10/16
 
 But yeah that's a real thing, the main idea of this project is help recent graduates to get up to date on cloud technologies, I think Mexico has a huge potential on this area and I'd like to contribute with something back.
 I'll dedicate one hour per week during five/seven weeks or so to people who is ambicious enough to learn new stuff and accept new challenges, and probably create an startup or get hired.
@@ -21,6 +21,7 @@ This has no cost, And you just need to send me an email with your resume, and wh
 Check our [layout/plan](https://github.com/yazpik/tlacuaches/blob/master/layout/plan.md) 
 
 [Manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md)
+
 
 yazpik@gmail.com
 
