@@ -1,4 +1,8 @@
 
+## Plan
+
+ ## We can all discuss about what do you guys want to learn, but this is the plan for 2017, and guess what, it's probably already outdated!
+
 ## Plan 
 ### Openstack - week 1 & 2
 - OpenStack Ansible project
